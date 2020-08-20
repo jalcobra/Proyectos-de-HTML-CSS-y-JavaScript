@@ -1,0 +1,3 @@
+En este proyecto de Javascript, se centra en poner comentarios en un "Textarea" y pasarlos al otro lado al darle "click" al botón "Agregar",
+Tambien que dichos comentarios se guarden en el "Local storage" del navegador de tal forma que al recargar no se borren dichos cometarios.
+Además los comentarios se pondrá borrar a voluntad por el usuario, no solo borrandose del DOM sino tambien del "Local storage".

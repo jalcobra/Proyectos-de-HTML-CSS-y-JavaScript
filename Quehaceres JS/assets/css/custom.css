@@ -1,0 +1,35 @@
+body{
+    background-color: #eeeeee;
+    font-family: 'Alata', sans-serif;
+    color: #00bcd4;
+}
+
+
+.A{
+    color: #222831;
+    
+    font-family: 'Poppins', sans-serif;
+}
+
+.u-full-width{
+    color: #222831;
+    
+    font-family: 'Poppins', sans-serif;
+}
+ 
+h1, h2 {
+    text-align: center;
+    color: #222831;
+    
+}
+
+#contenido {
+    margin-top: 40px;
+}
+.borrar-tweet,
+.borrar-tweet:hover {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
